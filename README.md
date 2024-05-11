@@ -7,3 +7,6 @@
 * Major Express  
 * Pony Express (российский сайт)
 * Почта России
+* Dimex
+* Magic Trans
+* Байкал Сервис
