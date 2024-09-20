@@ -9,3 +9,4 @@
 * Dimex
 * Magic Trans
 * Байкал Сервис
+* СДЭК
